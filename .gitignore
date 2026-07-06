@@ -9,3 +9,6 @@ __pycache__/
 # 提出レギュレーション指定
 *.mp4
 tmp/
+
+# セッション間の一時引き継ぎメモ（Git管理外）
+HANDOFF_NEXT.md
