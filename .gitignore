@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+.playwright-mcp/
+
+# 提出レギュレーション指定
+*.mp4
+tmp/

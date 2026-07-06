@@ -1,0 +1,17 @@
+{
+  "name": "university-admissions-research",
+  "version": "1.0.0",
+  "description": "Claude Code のサブエージェント（Agent）・Skill機能を使い、指定した複数の大学の「入試概要」と「入試制度の変更点（経年比較）」を調査し、統合レポート（Markdown）とプレゼン用スライド（pptx）を自動生成するマルチエージェントシステムです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.61.1",
+    "pptxgenjs": "^4.0.1"
+  }
+}
